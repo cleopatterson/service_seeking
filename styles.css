@@ -1,0 +1,38 @@
+/* Make chat container fixed and fullscreen */
+.vfrc-container {
+    position: fixed !important;
+    bottom: 0 !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    width: 100vw !important;
+    height: 100vh !important;
+    max-height: 100vh !important;
+    background-color: white !important;
+    overflow: hidden !important;
+    z-index: 9999 !important;
+  }
+  
+  /* Lock the input bar to the bottom */
+  .vfrc-input-container {
+    position: fixed !important;
+    bottom: 0 !important;
+    left: 0;
+    width: 100% !important;
+    background: #ffffff !important;
+    z-index: 10000 !important;
+    padding: 12px 16px !important;
+    box-shadow: 0 -1px 5px rgba(0,0,0,0.1) !important;
+  }
+  
+  /* Limit message container to space above input */
+  .vfrc-messages-container {
+    position: absolute !important;
+    top: 0;
+    bottom: 60px; /* height of input + margin */
+    left: 0;
+    right: 0;
+    overflow-y: auto !important;
+    -webkit-overflow-scrolling: touch;
+    padding: 16px;
+  }
