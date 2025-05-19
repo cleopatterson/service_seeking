@@ -1,4 +1,14 @@
-/* 1. Make the chat container take up the full screen */
+/*
+  Custom Voiceflow Chat CSS for Mobile Keyboard Handling
+  ------------------------------------------------------
+  1. Container resizes with the visual viewport (keyboard-aware)
+  2. Input bar anchors above keyboard (absolute within container)
+  3. Scrollable messages area clears the input bar
+  4. Safe-area-inset support for iOS notch/home-indicator
+  5. Prevent page rubber-band overscroll
+*/
+
+/* 1. Full-screen chat container that responds to keyboard-driven viewport resize */
 .vfrc-container {
   position: fixed !important;
   top: 0 !important;
@@ -6,46 +16,51 @@
   left: 0 !important;
   right: 0 !important;
   width: 100vw !important;
-  height: 100vh !important;
-  max-height: 100vh !important;
-  z-index: 9999 !important;
   overflow: hidden !important;
-  transition: height 0.3s ease;
   box-sizing: border-box;
-  background-color: #fff; /* Optional: white background */
+  background-color: #fff !important;
+  z-index: 9999 !important;
+  transition: bottom 0.3s ease;
 }
 
-/* --- INPUT CONTAINER FIXED TO BOTTOM --- */
+/* 2. Input bar absolutely positioned at container bottom (moves with viewport) */
 .vfrc-input-container {
-  position: fixed !important;
+  position: absolute !important;
   bottom: 0 !important;
   left: 0 !important;
-  width: 100% !important;
+  right: 0 !important;
   background-color: #fff !important;
-  z-index: 10000 !important;
   padding: 0.75rem 1rem !important;
-  box-shadow: 0 -1px 6px rgba(0, 0, 0, 0.08); /* Subtle shadow above input */
+  box-shadow: 0 -1px 6px rgba(0,0,0,0.08) !important;
   box-sizing: border-box;
-  backdrop-filter: blur(6px); /* Optional: subtle blur for modern look */
+  backdrop-filter: blur(6px);
+  z-index: 1 !important;
 }
 
+/* 2a. iOS safe-area support (notch & home indicator) */
+@supports(padding: env(safe-area-inset-bottom)) {
+  .vfrc-input-container {
+    padding-bottom: calc(0.75rem + env(safe-area-inset-bottom)) !important;
+  }
+}
+
+/* 3. Scrollable messages area above the input bar */
 .vfrc-messages-container {
   position: absolute !important;
   top: 0 !important;
   left: 0 !important;
   right: 0 !important;
-  bottom: 70px !important; /* Same height as input container */
+  bottom: 70px !important;
   overflow-y: auto !important;
+  -webkit-overflow-scrolling: touch;
+  scroll-behavior: smooth;
   padding: 1rem !important;
   box-sizing: border-box;
-  -webkit-overflow-scrolling: touch; /* Smooth scroll on iOS */
-  scroll-behavior: smooth; /* Smooth scroll for loading new messages */
 }
 
-
-/* --- GENERAL BODY FIXES --- */
+/* 4. Disable page rubber-band overscroll on mobile */
 body {
-  overscroll-behavior: none; /* Prevent rubber-banding on mobile */
+  overscroll-behavior: none !important;
 }
 
 
