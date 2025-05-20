@@ -8,7 +8,7 @@
   5. Prevent page rubber-band overscroll
 */
 
-/* 1. Full-screen chat container that responds to keyboard-driven viewport resize */
+/* 1. Full-screen chat container that responds to keyboard-driven viewport resize
 .vfrc-container {
   position: fixed !important;
   top: 0 !important;
@@ -21,6 +21,7 @@
   overflow: hidden !important;
   box-sizing: border-box;
 }
+ */
 
 
 /* 2. Input bar absolutely positioned at container bottom (moves with viewport) 
