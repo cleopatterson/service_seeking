@@ -11,17 +11,15 @@
 /* 1. Full-screen chat container that responds to keyboard-driven viewport resize */
 .vfrc-container {
   position: fixed !important;
-  height: 100dvh !important;
   top: 0 !important;
-  bottom: 0 !important;
   left: 0 !important;
   right: 0 !important;
+  height: 100dvh !important;
   width: 100vw !important;
-  overflow: hidden !important;
-  box-sizing: border-box;
   background-color: #fff !important;
   z-index: 9999 !important;
-  transition: bottom 0.3s ease;
+  overflow: hidden !important;
+  box-sizing: border-box;
 }
 
 /* 2. Input bar absolutely positioned at container bottom (moves with viewport) */
@@ -52,7 +50,7 @@
   top: 0 !important;
   left: 0 !important;
   right: 0 !important;
-  bottom: 70px !important;
+  bottom: calc(4rem + env(safe-area-inset-bottom)) !important;
   overflow-y: auto !important;
   -webkit-overflow-scrolling: touch;
   scroll-behavior: smooth;
