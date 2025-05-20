@@ -23,7 +23,7 @@
 }
 
 
-/* 2. Input bar absolutely positioned at container bottom (moves with viewport) */
+/* 2. Input bar absolutely positioned at container bottom (moves with viewport) 
 .vfrc-input-container {
   position: relative !important;
   bottom: auto !important;
@@ -38,7 +38,7 @@
   z-index: auto !important;
   backdrop-filter: none !important;
 }
-
+*/
 
 
 /* 2a. iOS safe-area support (notch & home indicator) */
