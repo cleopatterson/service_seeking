@@ -48,7 +48,7 @@
   }
 }
 
-/* 3. Scrollable messages area above the input bar */ 
+/* 3. Scrollable messages area above the input bar  
 .vfrc-messages-container {
   position: absolute !important;
   top: 0 !important;
@@ -61,7 +61,7 @@
   padding: 1rem !important;
   box-sizing: border-box;
 }
-
+*/
 /* 4. Disable page rubber-band overscroll on mobile */
 body {
   overscroll-behavior: none !important;
