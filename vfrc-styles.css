@@ -28,7 +28,16 @@
   bottom: 0 !important;
   left: 0 !important;
   right: 0 !important;
+  background-color: #fff !important;
+  padding: 0.75rem 1rem !important;
+  box-shadow: 0 -1px 6px rgba(0,0,0,0.08) !important;
+  box-sizing: border-box;
+  backdrop-filter: blur(6px);
+  border-bottom-left-radius: 1rem !important;
+  border-bottom-right-radius: 1rem !important;
+  z-index: 1 !important;
 }
+
 
 /* 2a. iOS safe-area support (notch & home indicator) */
 @supports(padding: env(safe-area-inset-bottom)) {
