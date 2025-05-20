@@ -66,7 +66,7 @@ body {
   overscroll-behavior: none !important;
 }
 
-/* 5. Ensure the host element (#voiceflow-chat) fills the screen */
+/* 5. Ensure the host element (#voiceflow-chat) fills the screen
 #voiceflow-chat {
   position: fixed !important;
   top: 0 !important;
@@ -78,5 +78,5 @@ body {
   z-index: 9999 !important;
   overflow: hidden !important;
 }
-
+ */
 
