@@ -1,0 +1,942 @@
+{
+  "2780": {
+    "region": "Blue Mountains",
+    "area": "Blue Mountains & Surrounds"
+  },
+  "2782": {
+    "region": "Blue Mountains",
+    "area": "Blue Mountains & Surrounds"
+  },
+  "2786": {
+    "region": "Blue Mountains",
+    "area": "Blue Mountains & Surrounds"
+  },
+  "2785": {
+    "region": "Blue Mountains",
+    "area": "Blue Mountains & Surrounds"
+  },
+  "2779": {
+    "region": "Blue Mountains",
+    "area": "Blue Mountains & Surrounds"
+  },
+  "2774": {
+    "region": "Greater Sydney",
+    "area": "Hawkesbury"
+  },
+  "2784": {
+    "region": "Blue Mountains",
+    "area": "Blue Mountains & Surrounds"
+  },
+  "2191": {
+    "region": "Greater Sydney",
+    "area": "Canterbury/Bankstown"
+  },
+  "2162": {
+    "region": "Greater Sydney",
+    "area": "Canterbury/Bankstown"
+  },
+  "2195": {
+    "region": "Greater Sydney",
+    "area": "Canterbury/Bankstown"
+  },
+  "2193": {
+    "region": "Greater Sydney",
+    "area": "Canterbury/Bankstown"
+  },
+  "2213": {
+    "region": "Greater Sydney",
+    "area": "Canterbury/Bankstown"
+  },
+  "2196": {
+    "region": "Greater Sydney",
+    "area": "Canterbury/Bankstown"
+  },
+  "2199": {
+    "region": "Greater Sydney",
+    "area": "Canterbury/Bankstown"
+  },
+  "2192": {
+    "region": "Greater Sydney",
+    "area": "Canterbury/Bankstown"
+  },
+  "2163": {
+    "region": "Greater Sydney",
+    "area": "Liverpool / Fairfield"
+  },
+  "2190": {
+    "region": "Greater Sydney",
+    "area": "Canterbury/Bankstown"
+  },
+  "2143": {
+    "region": "Greater Sydney",
+    "area": "Canterbury/Bankstown"
+  },
+  "2200": {
+    "region": "Greater Sydney",
+    "area": "Canterbury/Bankstown"
+  },
+  "2214": {
+    "region": "Greater Sydney",
+    "area": "Canterbury/Bankstown"
+  },
+  "2211": {
+    "region": "Greater Sydney",
+    "area": "Canterbury/Bankstown"
+  },
+  "2194": {
+    "region": "Greater Sydney",
+    "area": "Canterbury/Bankstown"
+  },
+  "2198": {
+    "region": "Greater Sydney",
+    "area": "Canterbury/Bankstown"
+  },
+  "2197": {
+    "region": "Greater Sydney",
+    "area": "Canterbury/Bankstown"
+  },
+  "2212": {
+    "region": "Greater Sydney",
+    "area": "Canterbury/Bankstown"
+  },
+  "2019": {
+    "region": "Sydney Metro",
+    "area": "Eastern Suburbs"
+  },
+  "2010": {
+    "region": "Sydney Metro",
+    "area": "Eastern Suburbs"
+  },
+  "2026": {
+    "region": "Sydney Metro",
+    "area": "Eastern Suburbs"
+  },
+  "2015": {
+    "region": "Greater Sydney",
+    "area": "Inner West"
+  },
+  "2020": {
+    "region": "Sydney Metro",
+    "area": "Eastern Suburbs"
+  },
+  "2022": {
+    "region": "Sydney Metro",
+    "area": "Eastern Suburbs"
+  },
+  "2018": {
+    "region": "Sydney Metro",
+    "area": "Eastern Suburbs"
+  },
+  "2021": {
+    "region": "Sydney Metro",
+    "area": "Eastern Suburbs"
+  },
+  "2035": {
+    "region": "Sydney Metro",
+    "area": "Eastern Suburbs"
+  },
+  "2036": {
+    "region": "Sydney Metro",
+    "area": "Eastern Suburbs"
+  },
+  "2032": {
+    "region": "Sydney Metro",
+    "area": "Eastern Suburbs"
+  },
+  "2031": {
+    "region": "Sydney Metro",
+    "area": "Eastern Suburbs"
+  },
+  "2029": {
+    "region": "Sydney Metro",
+    "area": "Eastern Suburbs"
+  },
+  "2016": {
+    "region": "Sydney Metro",
+    "area": "Eastern Suburbs"
+  },
+  "2011": {
+    "region": "Greater Sydney",
+    "area": "Sydney City"
+  },
+  "2017": {
+    "region": "Sydney Metro",
+    "area": "Eastern Suburbs"
+  },
+  "2034": {
+    "region": "Sydney Metro",
+    "area": "Eastern Suburbs"
+  },
+  "2033": {
+    "region": "Sydney Metro",
+    "area": "Eastern Suburbs"
+  },
+  "2028": {
+    "region": "Sydney Metro",
+    "area": "Eastern Suburbs"
+  },
+  "2030": {
+    "region": "Sydney Metro",
+    "area": "Eastern Suburbs"
+  },
+  "2023": {
+    "region": "Sydney Metro",
+    "area": "Eastern Suburbs"
+  },
+  "2025": {
+    "region": "Sydney Metro",
+    "area": "Eastern Suburbs"
+  },
+  "2024": {
+    "region": "Sydney Metro",
+    "area": "Eastern Suburbs"
+  },
+  "2027": {
+    "region": "Sydney Metro",
+    "area": "Eastern Suburbs"
+  },
+  "2777": {
+    "region": "Greater Sydney",
+    "area": "Hawkesbury"
+  },
+  "2753": {
+    "region": "Greater Sydney",
+    "area": "Hawkesbury"
+  },
+  "2776": {
+    "region": "Greater Sydney",
+    "area": "Hawkesbury"
+  },
+  "2756": {
+    "region": "Greater Sydney",
+    "area": "Hawkesbury"
+  },
+  "2757": {
+    "region": "Greater Sydney",
+    "area": "Hawkesbury"
+  },
+  "2775": {
+    "region": "Greater Sydney",
+    "area": "Hawkesbury"
+  },
+  "2754": {
+    "region": "Greater Sydney",
+    "area": "Hawkesbury"
+  },
+  "2155": {
+    "region": "Greater Sydney",
+    "area": "Hills"
+  },
+  "2769": {
+    "region": "Greater Sydney",
+    "area": "Hills"
+  },
+  "2153": {
+    "region": "Greater Sydney",
+    "area": "Hills"
+  },
+  "2154": {
+    "region": "Greater Sydney",
+    "area": "Hills"
+  },
+  "2126": {
+    "region": "Greater Sydney",
+    "area": "Hills"
+  },
+  "2156": {
+    "region": "Greater Sydney",
+    "area": "Hills"
+  },
+  "2125": {
+    "region": "Greater Sydney",
+    "area": "Hills"
+  },
+  "2159": {
+    "region": "Greater Sydney",
+    "area": "Hills"
+  },
+  "2157": {
+    "region": "Greater Sydney",
+    "area": "Hills"
+  },
+  "2158": {
+    "region": "Greater Sydney",
+    "area": "Hills"
+  },
+  "2146": {
+    "region": "Western Sydney",
+    "area": "Western Sydney"
+  },
+  "2044": {
+    "region": "Greater Sydney",
+    "area": "Inner West"
+  },
+  "2042": {
+    "region": "Greater Sydney",
+    "area": "Inner West"
+  },
+  "2137": {
+    "region": "Greater Sydney",
+    "area": "Inner West"
+  },
+  "2133": {
+    "region": "Greater Sydney",
+    "area": "Inner West"
+  },
+  "2046": {
+    "region": "Greater Sydney",
+    "area": "Inner West"
+  },
+  "2140": {
+    "region": "Greater Sydney",
+    "area": "Inner West"
+  },
+  "2047": {
+    "region": "Greater Sydney",
+    "area": "Inner West"
+  },
+  "2038": {
+    "region": "Greater Sydney",
+    "area": "Inner West"
+  },
+  "2037": {
+    "region": "Greater Sydney",
+    "area": "Inner West"
+  },
+  "2135": {
+    "region": "Greater Sydney",
+    "area": "Inner West"
+  },
+  "2050": {
+    "region": "Greater Sydney",
+    "area": "Inner West"
+  },
+  "2136": {
+    "region": "Greater Sydney",
+    "area": "Inner West"
+  },
+  "2040": {
+    "region": "Greater Sydney",
+    "area": "Inner West"
+  },
+  "2127": {
+    "region": "Greater Sydney",
+    "area": "Parramatta"
+  },
+  "2045": {
+    "region": "Greater Sydney",
+    "area": "Inner West"
+  },
+  "2134": {
+    "region": "Greater Sydney",
+    "area": "Inner West"
+  },
+  "2131": {
+    "region": "Greater Sydney",
+    "area": "Inner West"
+  },
+  "2138": {
+    "region": "Greater Sydney",
+    "area": "Inner West"
+  },
+  "2132": {
+    "region": "Greater Sydney",
+    "area": "Inner West"
+  },
+  "2007": {
+    "region": "Greater Sydney",
+    "area": "Inner West"
+  },
+  "2203": {
+    "region": "Greater Sydney",
+    "area": "Inner West"
+  },
+  "2206": {
+    "region": "Greater Sydney",
+    "area": "Inner West"
+  },
+  "2041": {
+    "region": "Greater Sydney",
+    "area": "Inner West"
+  },
+  "2043": {
+    "region": "Greater Sydney",
+    "area": "Inner West"
+  },
+  "2204": {
+    "region": "Greater Sydney",
+    "area": "Inner West"
+  },
+  "2039": {
+    "region": "Greater Sydney",
+    "area": "Inner West"
+  },
+  "2048": {
+    "region": "Greater Sydney",
+    "area": "Inner West"
+  },
+  "2049": {
+    "region": "Greater Sydney",
+    "area": "Inner West"
+  },
+  "2165": {
+    "region": "Greater Sydney",
+    "area": "Liverpool / Fairfield"
+  },
+  "2168": {
+    "region": "Greater Sydney",
+    "area": "Liverpool / Fairfield"
+  },
+  "2171": {
+    "region": "Western Sydney",
+    "area": "Western Sydney"
+  },
+  "2170": {
+    "region": "Greater Sydney",
+    "area": "MacArthur/Camden"
+  },
+  "2166": {
+    "region": "Greater Sydney",
+    "area": "Liverpool / Fairfield"
+  },
+  "2176": {
+    "region": "Western Sydney",
+    "area": "Western Sydney"
+  },
+  "2164": {
+    "region": "Western Sydney",
+    "area": "Western Sydney"
+  },
+  "2173": {
+    "region": "Greater Sydney",
+    "area": "MacArthur/Camden"
+  },
+  "2177": {
+    "region": "Western Sydney",
+    "area": "Western Sydney"
+  },
+  "2174": {
+    "region": "Greater Sydney",
+    "area": "Liverpool / Fairfield"
+  },
+  "2560": {
+    "region": "Greater Sydney",
+    "area": "MacArthur/Camden"
+  },
+  "2559": {
+    "region": "Greater Sydney",
+    "area": "MacArthur/Camden"
+  },
+  "2558": {
+    "region": "Greater Sydney",
+    "area": "MacArthur/Camden"
+  },
+  "2566": {
+    "region": "Greater Sydney",
+    "area": "MacArthur/Camden"
+  },
+  "2179": {
+    "region": "Greater Sydney",
+    "area": "MacArthur/Camden"
+  },
+  "2557": {
+    "region": "Greater Sydney",
+    "area": "MacArthur/Camden"
+  },
+  "2565": {
+    "region": "Greater Sydney",
+    "area": "MacArthur/Camden"
+  },
+  "2570": {
+    "region": "Greater Sydney",
+    "area": "MacArthur/Camden"
+  },
+  "2564": {
+    "region": "Greater Sydney",
+    "area": "MacArthur/Camden"
+  },
+  "2567": {
+    "region": "Greater Sydney",
+    "area": "MacArthur/Camden"
+  },
+  "2167": {
+    "region": "Greater Sydney",
+    "area": "MacArthur/Camden"
+  },
+  "2055": {
+    "region": "Northern Sydney",
+    "area": "North Shore - Lower"
+  },
+  "2059": {
+    "region": "Northern Sydney",
+    "area": "North Shore - Lower"
+  },
+  "2060": {
+    "region": "Northern Sydney",
+    "area": "North Shore - Lower"
+  },
+  "2065": {
+    "region": "Northern Sydney",
+    "area": "North Shore - Lower"
+  },
+  "2066": {
+    "region": "Northern Sydney",
+    "area": "North Shore - Lower"
+  },
+  "2057": {
+    "region": "Northern Sydney",
+    "area": "North Shore - Lower"
+  },
+  "2067": {
+    "region": "Northern Sydney",
+    "area": "North Shore - Lower"
+  },
+  "2064": {
+    "region": "Northern Sydney",
+    "area": "North Shore - Lower"
+  },
+  "2063": {
+    "region": "Northern Sydney",
+    "area": "North Shore - Lower"
+  },
+  "2088": {
+    "region": "Northern Sydney",
+    "area": "North Shore - Lower"
+  },
+  "2090": {
+    "region": "Northern Sydney",
+    "area": "North Shore - Lower"
+  },
+  "2068": {
+    "region": "Northern Sydney",
+    "area": "North Shore - Upper"
+  },
+  "2062": {
+    "region": "Northern Sydney",
+    "area": "North Shore - Lower"
+  },
+  "2061": {
+    "region": "Northern Sydney",
+    "area": "North Shore - Lower"
+  },
+  "2089": {
+    "region": "Northern Sydney",
+    "area": "North Shore - Lower"
+  },
+  "2077": {
+    "region": "Northern Sydney",
+    "area": "North Shore - Upper"
+  },
+  "2074": {
+    "region": "Northern Sydney",
+    "area": "North Shore - Upper"
+  },
+  "2075": {
+    "region": "Northern Sydney",
+    "area": "North Shore - Upper"
+  },
+  "2073": {
+    "region": "Northern Sydney",
+    "area": "North Shore - Upper"
+  },
+  "2070": {
+    "region": "Northern Sydney",
+    "area": "North Shore - Upper"
+  },
+  "2076": {
+    "region": "Northern Sydney",
+    "area": "North Shore - Upper"
+  },
+  "2072": {
+    "region": "Northern Sydney",
+    "area": "North Shore - Upper"
+  },
+  "2081": {
+    "region": "Northern Sydney",
+    "area": "North Shore - Upper"
+  },
+  "2069": {
+    "region": "Northern Sydney",
+    "area": "North Shore - Upper"
+  },
+  "2105": {
+    "region": "Northern Sydney",
+    "area": "Northern Beaches"
+  },
+  "2079": {
+    "region": "Northern Sydney",
+    "area": "North Shore - Upper"
+  },
+  "2087": {
+    "region": "Northern Sydney",
+    "area": "Northern Beaches"
+  },
+  "2071": {
+    "region": "Northern Sydney",
+    "area": "North Shore - Upper"
+  },
+  "2085": {
+    "region": "Northern Sydney",
+    "area": "Northern Beaches"
+  },
+  "2099": {
+    "region": "Northern Sydney",
+    "area": "Northern Beaches"
+  },
+  "2103": {
+    "region": "Northern Sydney",
+    "area": "Northern Beaches"
+  },
+  "2107": {
+    "region": "Northern Sydney",
+    "area": "Northern Beaches"
+  },
+  "2100": {
+    "region": "Northern Sydney",
+    "area": "Northern Beaches"
+  },
+  "2101": {
+    "region": "Northern Sydney",
+    "area": "Northern Beaches"
+  },
+  "2093": {
+    "region": "Northern Sydney",
+    "area": "Northern Beaches"
+  },
+  "2106": {
+    "region": "Northern Sydney",
+    "area": "Northern Beaches"
+  },
+  "2096": {
+    "region": "Northern Sydney",
+    "area": "Northern Beaches"
+  },
+  "2095": {
+    "region": "Northern Sydney",
+    "area": "Northern Beaches"
+  },
+  "2102": {
+    "region": "Northern Sydney",
+    "area": "Northern Beaches"
+  },
+  "2086": {
+    "region": "Northern Sydney",
+    "area": "Northern Beaches"
+  },
+  "2104": {
+    "region": "Northern Sydney",
+    "area": "Northern Beaches"
+  },
+  "2097": {
+    "region": "Northern Sydney",
+    "area": "Northern Beaches"
+  },
+  "2094": {
+    "region": "Northern Sydney",
+    "area": "Northern Beaches"
+  },
+  "2092": {
+    "region": "Northern Sydney",
+    "area": "Northern Beaches"
+  },
+  "2084": {
+    "region": "Northern Sydney",
+    "area": "Northern Beaches"
+  },
+  "2108": {
+    "region": "Northern Sydney",
+    "area": "Northern Beaches"
+  },
+  "2117": {
+    "region": "Greater Sydney",
+    "area": "Parramatta"
+  },
+  "2113": {
+    "region": "Greater Sydney",
+    "area": "Northern Suburbs"
+  },
+  "2112": {
+    "region": "Greater Sydney",
+    "area": "Northern Suburbs"
+  },
+  "2111": {
+    "region": "Greater Sydney",
+    "area": "Northern Suburbs"
+  },
+  "2121": {
+    "region": "Greater Sydney",
+    "area": "Northern Suburbs"
+  },
+  "2119": {
+    "region": "Greater Sydney",
+    "area": "Northern Suburbs"
+  },
+  "2120": {
+    "region": "Greater Sydney",
+    "area": "Northern Suburbs"
+  },
+  "2122": {
+    "region": "Greater Sydney",
+    "area": "Northern Suburbs"
+  },
+  "2118": {
+    "region": "Greater Sydney",
+    "area": "Northern Suburbs"
+  },
+  "2114": {
+    "region": "Greater Sydney",
+    "area": "Northern Suburbs"
+  },
+  "2110": {
+    "region": "Greater Sydney",
+    "area": "Northern Suburbs"
+  },
+  "2161": {
+    "region": "Greater Sydney",
+    "area": "Parramatta"
+  },
+  "2123": {
+    "region": "Greater Sydney",
+    "area": "Parramatta"
+  },
+  "2124": {
+    "region": "Greater Sydney",
+    "area": "Parramatta"
+  },
+  "2150": {
+    "region": "Greater Sydney",
+    "area": "Parramatta"
+  },
+  "2145": {
+    "region": "Greater Sydney",
+    "area": "Parramatta"
+  },
+  "2144": {
+    "region": "Greater Sydney",
+    "area": "Parramatta"
+  },
+  "2115": {
+    "region": "Greater Sydney",
+    "area": "Parramatta"
+  },
+  "2160": {
+    "region": "Greater Sydney",
+    "area": "Parramatta"
+  },
+  "2141": {
+    "region": "Greater Sydney",
+    "area": "Parramatta"
+  },
+  "2142": {
+    "region": "Greater Sydney",
+    "area": "Parramatta"
+  },
+  "2152": {
+    "region": "Greater Sydney",
+    "area": "Parramatta"
+  },
+  "2116": {
+    "region": "Greater Sydney",
+    "area": "Parramatta"
+  },
+  "2151": {
+    "region": "Greater Sydney",
+    "area": "Parramatta"
+  },
+  "2219": {
+    "region": "South Sydney",
+    "area": "St George"
+  },
+  "2207": {
+    "region": "South Sydney",
+    "area": "St George"
+  },
+  "2217": {
+    "region": "South Sydney",
+    "area": "St George"
+  },
+  "2209": {
+    "region": "South Sydney",
+    "area": "St George"
+  },
+  "2220": {
+    "region": "South Sydney",
+    "area": "St George"
+  },
+  "2218": {
+    "region": "South Sydney",
+    "area": "St George"
+  },
+  "2216": {
+    "region": "South Sydney",
+    "area": "St George"
+  },
+  "2210": {
+    "region": "South Sydney",
+    "area": "St George"
+  },
+  "2205": {
+    "region": "South Sydney",
+    "area": "St George"
+  },
+  "2222": {
+    "region": "South Sydney",
+    "area": "St George"
+  },
+  "2208": {
+    "region": "South Sydney",
+    "area": "St George"
+  },
+  "2223": {
+    "region": "South Sydney",
+    "area": "St George"
+  },
+  "2221": {
+    "region": "South Sydney",
+    "area": "St George"
+  },
+  "2229": {
+    "region": "South Sydney",
+    "area": "Sutherland"
+  },
+  "2234": {
+    "region": "South Sydney",
+    "area": "Sutherland"
+  },
+  "2228": {
+    "region": "South Sydney",
+    "area": "Sutherland"
+  },
+  "2233": {
+    "region": "South Sydney",
+    "area": "Sutherland"
+  },
+  "2232": {
+    "region": "South Sydney",
+    "area": "Sutherland"
+  },
+  "2230": {
+    "region": "South Sydney",
+    "area": "Sutherland"
+  },
+  "2172": {
+    "region": "South Sydney",
+    "area": "Sutherland"
+  },
+  "2224": {
+    "region": "South Sydney",
+    "area": "Sutherland"
+  },
+  "2226": {
+    "region": "South Sydney",
+    "area": "Sutherland"
+  },
+  "2227": {
+    "region": "South Sydney",
+    "area": "Sutherland"
+  },
+  "2225": {
+    "region": "South Sydney",
+    "area": "Sutherland"
+  },
+  "2231": {
+    "region": "South Sydney",
+    "area": "Sutherland"
+  },
+  "2009": {
+    "region": "Greater Sydney",
+    "area": "Sydney City"
+  },
+  "2008": {
+    "region": "Greater Sydney",
+    "area": "Sydney City"
+  },
+  "2000": {
+    "region": "Greater Sydney",
+    "area": "Sydney City"
+  },
+  "2001": {
+    "region": "Greater Sydney",
+    "area": "Sydney City"
+  },
+  "2765": {
+    "region": "Western Sydney",
+    "area": "Western Sydney"
+  },
+  "2147": {
+    "region": "Western Sydney",
+    "area": "Western Sydney"
+  },
+  "2761": {
+    "region": "Western Sydney",
+    "area": "Western Sydney"
+  },
+  "2763": {
+    "region": "Western Sydney",
+    "area": "Western Sydney"
+  },
+  "2748": {
+    "region": "Western Sydney",
+    "area": "Western Sydney"
+  },
+  "2750": {
+    "region": "Western Sydney",
+    "area": "Western Sydney"
+  },
+  "2751": {
+    "region": "Western Sydney",
+    "area": "Western Sydney"
+  },
+  "2148": {
+    "region": "Western Sydney",
+    "area": "Western Sydney"
+  },
+  "2745": {
+    "region": "Western Sydney",
+    "area": "Western Sydney"
+  },
+  "2762": {
+    "region": "Western Sydney",
+    "area": "Western Sydney"
+  },
+  "2747": {
+    "region": "Western Sydney",
+    "area": "Western Sydney"
+  },
+  "2767": {
+    "region": "Western Sydney",
+    "area": "Western Sydney"
+  },
+  "2770": {
+    "region": "Western Sydney",
+    "area": "Western Sydney"
+  },
+  "2749": {
+    "region": "Western Sydney",
+    "area": "Western Sydney"
+  },
+  "2760": {
+    "region": "Western Sydney",
+    "area": "Western Sydney"
+  },
+  "2768": {
+    "region": "Western Sydney",
+    "area": "Western Sydney"
+  },
+  "2766": {
+    "region": "Western Sydney",
+    "area": "Western Sydney"
+  },
+  "2759": {
+    "region": "Western Sydney",
+    "area": "Western Sydney"
+  },
+  "2175": {
+    "region": "Western Sydney",
+    "area": "Western Sydney"
+  },
+  "2752": {
+    "region": "Western Sydney",
+    "area": "Western Sydney"
+  }
+}
