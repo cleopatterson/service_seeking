@@ -105,15 +105,15 @@
   },
   "2010": {
     "region": "Sydney Metro",
-    "area": "Eastern Suburbs"
+    "area": "Sydney City"
   },
   "2026": {
     "region": "Sydney Metro",
     "area": "Eastern Suburbs"
   },
   "2015": {
-    "region": "Greater Sydney",
-    "area": "Inner West"
+    "region": "Sydney Metro",
+    "area": "Eastern Suburbs"
   },
   "2020": {
     "region": "Sydney Metro",
@@ -156,7 +156,7 @@
     "area": "Eastern Suburbs"
   },
   "2011": {
-    "region": "Greater Sydney",
+    "region": "Sydney Metro",
     "area": "Sydney City"
   },
   "2017": {
@@ -228,8 +228,8 @@
     "area": "Hills"
   },
   "2769": {
-    "region": "Greater Sydney",
-    "area": "Hills"
+    "region": "Western Sydney",
+    "area": "Western Sydney"
   },
   "2153": {
     "region": "Greater Sydney",
@@ -276,6 +276,10 @@
     "area": "Inner West"
   },
   "2137": {
+    "region": "Greater Sydney",
+    "area": "Inner West"
+  },
+   "2139": {
     "region": "Greater Sydney",
     "area": "Inner West"
   },
@@ -344,8 +348,8 @@
     "area": "Inner West"
   },
   "2007": {
-    "region": "Greater Sydney",
-    "area": "Inner West"
+    "region": "Sydney Metro",
+    "area": "Sydney City"
   },
   "2203": {
     "region": "Greater Sydney",
@@ -388,38 +392,42 @@
     "area": "Liverpool / Fairfield"
   },
   "2171": {
-    "region": "Western Sydney",
-    "area": "Western Sydney"
+    "region": "Greater Sydney",
+    "area": "Liverpool / Fairfield"
   },
   "2170": {
     "region": "Greater Sydney",
-    "area": "MacArthur/Camden"
+    "area": "Liverpool / Fairfield"
   },
   "2166": {
     "region": "Greater Sydney",
     "area": "Liverpool / Fairfield"
   },
   "2176": {
-    "region": "Western Sydney",
-    "area": "Western Sydney"
+    "region": "Greater Sydney",
+    "area": "Liverpool / Fairfield"
   },
   "2164": {
-    "region": "Western Sydney",
-    "area": "Western Sydney"
+    "region": "Greater Sydney",
+    "area": "Liverpool / Fairfield"
   },
   "2173": {
     "region": "Greater Sydney",
-    "area": "MacArthur/Camden"
+    "area": "Liverpool / Fairfield"
   },
   "2177": {
-    "region": "Western Sydney",
-    "area": "Western Sydney"
+    "region": "Greater Sydney",
+    "area": "Liverpool / Fairfield"
   },
   "2174": {
     "region": "Greater Sydney",
     "area": "Liverpool / Fairfield"
   },
   "2560": {
+    "region": "Greater Sydney",
+    "area": "MacArthur/Camden"
+  },
+    "2563": {
     "region": "Greater Sydney",
     "area": "MacArthur/Camden"
   },
@@ -431,7 +439,23 @@
     "region": "Greater Sydney",
     "area": "MacArthur/Camden"
   },
+    "2568": {
+    "region": "Greater Sydney",
+    "area": "MacArthur/Camden"
+  },
+      "2569": {
+    "region": "Greater Sydney",
+    "area": "MacArthur/Camden"
+  },
+    "2557": {
+    "region": "Greater Sydney",
+    "area": "MacArthur/Camden"
+  },
   "2566": {
+    "region": "Greater Sydney",
+    "area": "MacArthur/Camden"
+  },
+    "2178": {
     "region": "Greater Sydney",
     "area": "MacArthur/Camden"
   },
@@ -451,6 +475,22 @@
     "region": "Greater Sydney",
     "area": "MacArthur/Camden"
   },
+    "2571": {
+    "region": "Greater Sydney",
+    "area": "MacArthur/Camden"
+  },
+      "2572": {
+    "region": "Greater Sydney",
+    "area": "MacArthur/Camden"
+  },
+    "2573": {
+    "region": "Greater Sydney",
+    "area": "MacArthur/Camden"
+  },
+    "2574": {
+    "region": "Greater Sydney",
+    "area": "MacArthur/Camden"
+  },
   "2564": {
     "region": "Greater Sydney",
     "area": "MacArthur/Camden"
@@ -461,7 +501,7 @@
   },
   "2167": {
     "region": "Greater Sydney",
-    "area": "MacArthur/Camden"
+    "area": "Liverpool / Fairfield"
   },
   "2055": {
     "region": "Northern Sydney",
@@ -504,6 +544,10 @@
     "area": "North Shore - Lower"
   },
   "2090": {
+    "region": "Northern Sydney",
+    "area": "North Shore - Lower"
+  },
+    "2091": {
     "region": "Northern Sydney",
     "area": "North Shore - Lower"
   },
@@ -647,44 +691,48 @@
     "region": "Northern Sydney",
     "area": "Northern Beaches"
   },
+    "2109": {
+    "region": "Northern Sydney",
+    "area": "Northern Beaches"
+  },
   "2117": {
     "region": "Greater Sydney",
     "area": "Parramatta"
   },
   "2113": {
-    "region": "Greater Sydney",
+    "region": "Northern Sydney",
     "area": "Northern Suburbs"
   },
   "2112": {
-    "region": "Greater Sydney",
+    "region": "Northern Sydney",
     "area": "Northern Suburbs"
   },
   "2111": {
-    "region": "Greater Sydney",
+    "region": "Northern Sydney",
     "area": "Northern Suburbs"
   },
   "2121": {
-    "region": "Greater Sydney",
+    "region": "Northern Sydney",
     "area": "Northern Suburbs"
   },
   "2119": {
-    "region": "Greater Sydney",
+    "region": "Northern Sydney",
     "area": "Northern Suburbs"
   },
   "2120": {
-    "region": "Greater Sydney",
+    "region": "Northern Sydney",
     "area": "Northern Suburbs"
   },
   "2122": {
-    "region": "Greater Sydney",
+    "region": "Northern Sydney",
     "area": "Northern Suburbs"
   },
   "2118": {
-    "region": "Greater Sydney",
+    "region": "Northern Sydney",
     "area": "Northern Suburbs"
   },
   "2114": {
-    "region": "Greater Sydney",
+    "region": "Northern Sydney",
     "area": "Northern Suburbs"
   },
   "2110": {
@@ -776,8 +824,8 @@
     "area": "St George"
   },
   "2205": {
-    "region": "South Sydney",
-    "area": "St George"
+    "region": "Greater Sydney",
+    "area": "Inner West
   },
   "2222": {
     "region": "South Sydney",
@@ -820,8 +868,8 @@
     "area": "Sutherland"
   },
   "2172": {
-    "region": "South Sydney",
-    "area": "Sutherland"
+    "region": "Greater Sydney",
+    "area": "Liverpool / Fairfield"
   },
   "2224": {
     "region": "South Sydney",
@@ -844,19 +892,19 @@
     "area": "Sutherland"
   },
   "2009": {
-    "region": "Greater Sydney",
+    "region": "Sydney Metro",
     "area": "Sydney City"
   },
   "2008": {
-    "region": "Greater Sydney",
+    "region": "Sydney Metro",
     "area": "Sydney City"
   },
   "2000": {
-    "region": "Greater Sydney",
+    "region": "Sydney Metro",
     "area": "Sydney City"
   },
   "2001": {
-    "region": "Greater Sydney",
+    "region": "Sydney Metro",
     "area": "Sydney City"
   },
   "2765": {
@@ -932,8 +980,8 @@
     "area": "Western Sydney"
   },
   "2175": {
-    "region": "Western Sydney",
-    "area": "Western Sydney"
+    "region": "Greater Sydney",
+    "area": "Liverpool / Fairfield"
   },
   "2752": {
     "region": "Western Sydney",
@@ -942,5 +990,45 @@
   "2128": {
     "region": "Greater Sydney",
     "area": "Parramatta"
-  }
+  }, 
+  "2129": {
+    "region": "Greater Sydney",
+    "area": "Inner West"
+  },
+    "2130": {
+    "region": "Greater Sydney",
+    "area": "Inner West"
+  },
+  "2011": {
+    "region": "Sydney Metro",
+    "area": "Sydney City"
+  },
+  "2012": {
+  "region": "Sydney Metro",
+  "area": "Sydney City"
+  },
+    "2013": {
+    "region": "Sydney Metro",
+    "area": "Sydney City"
+  },
+    "2052": {
+    "region": "Greater Sydney",
+    "area": "Inner West"
+  },
+    "2058": {
+    "region": "Northern Sydney",
+    "area": "North Shore - Lower"
+  },
+    "2080": {
+    "region": "Northern Sydney",
+    "area": "North Shore - Upper"
+  },
+    "2082": {
+    "region": "Northern Sydney",
+    "area": "North Shore - Upper"
+  },
+    "2083": {
+    "region": "Northern Sydney",
+    "area": "North Shore - Upper"
+  },
 }
